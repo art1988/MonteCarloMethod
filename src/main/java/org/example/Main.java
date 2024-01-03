@@ -93,6 +93,7 @@ public class Main
     // Monte Carlo method
     private void throwDice(int repeatCount)
     {
+        map.clear();
         System.out.println("Number of throws : " + repeatCount);
 
         for(int i = 0; i < repeatCount; i++)
