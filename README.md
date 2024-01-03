@@ -4,7 +4,6 @@ It uses Monte Carlo method.</br>
 Generates 3 images:
 </br>
 </br>
-![Histogram_1](img/gisto_12_20_13.jpg)
-![Histogram_2](img/gisto_12_20_14.jpg)
-![Histogram_3](img/gisto_12_20_15.jpg)
-
+![Histogram_1](img/gisto_13_26_52.jpg)
+![Histogram_2](img/gisto_13_26_53.jpg)
+![Histogram_3](img/gisto_13_26_54.jpg)
